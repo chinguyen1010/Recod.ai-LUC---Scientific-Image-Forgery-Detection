@@ -19,8 +19,12 @@ Submission File
 You must create a row in the submission file for each image. For images that do not contain a copy-move forgery predict the string "authentic". For all others submit run length encoded masks as serialized using the rle_encode function in the metric. The file should contain a header and have the following format:
 
 case_id,annotation
+
 1,authentic
+
 2,"[123 4]"
+
+
 
 
 
