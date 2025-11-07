@@ -23,3 +23,14 @@ case_id,annotation
 1,authentic
 
 2,"[123 4]"
+
+
+
+
+Acknowledgements:
+
+This competition is supported by the Kaggle Research Grant Program and the IEEE Signal Processing Society Challenge Program. We also extend our gratitude to Dr. Elisabeth Bik for her valuable guidance during the early phases, and to the members of the São Paulo Research Foundation (Fapesp) Horus project and CNPq Aletheia research project for their technical support.
+
+Citation:
+
+João Phillipe Cardenuto, Daniel Moreira, Anderson Rocha, Sohier Dane, Addison Howard, and Ashley Oldacre. Recod.ai/LUC - Scientific Image Forgery Detection. https://kaggle.com/competitions/recodai-luc-scientific-image-forgery-detection, 2025. Kaggle.
